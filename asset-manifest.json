@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lexKarpov/welbex-work/tree/gh-pages/static/css/main.b627442c.css",
-    "main.js": "/lexKarpov/welbex-work/tree/gh-pages/static/js/main.42a42436.js",
-    "static/js/787.08f9b020.chunk.js": "/lexKarpov/welbex-work/tree/gh-pages/static/js/787.08f9b020.chunk.js",
-    "static/media/Montserrat-Medium.ttf": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/Inter-Black.woff?v=3.19": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
-    "static/media/Inter-Black.woff2?v=3.19": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2?v=3.19": "/lexKarpov/welbex-work/tree/gh-pages/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/logo.svg": "/lexKarpov/welbex-work/tree/gh-pages/static/media/logo.3c343290f6e5212dfe6da40995b0cc51.svg",
-    "static/media/whatsapp.svg": "/lexKarpov/welbex-work/tree/gh-pages/static/media/whatsapp.b68965d8875719d7ac56dd2784aae9ee.svg",
-    "static/media/viber.svg": "/lexKarpov/welbex-work/tree/gh-pages/static/media/viber.af065114865219181864377f8623c26f.svg",
-    "index.html": "/lexKarpov/welbex-work/tree/gh-pages/index.html",
-    "static/media/telegram.svg": "/lexKarpov/welbex-work/tree/gh-pages/static/media/telegram.e06f7254a04fa3f3d6df3f59a01e133a.svg",
-    "main.b627442c.css.map": "/lexKarpov/welbex-work/tree/gh-pages/static/css/main.b627442c.css.map",
-    "main.42a42436.js.map": "/lexKarpov/welbex-work/tree/gh-pages/static/js/main.42a42436.js.map",
-    "787.08f9b020.chunk.js.map": "/lexKarpov/welbex-work/tree/gh-pages/static/js/787.08f9b020.chunk.js.map"
+    "main.css": "/lexKarpov/welbex-work/static/css/main.3256fa3e.css",
+    "main.js": "/lexKarpov/welbex-work/static/js/main.ed225cbe.js",
+    "static/js/787.08f9b020.chunk.js": "/lexKarpov/welbex-work/static/js/787.08f9b020.chunk.js",
+    "static/media/Montserrat-Medium.ttf": "/lexKarpov/welbex-work/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Inter-Black.woff?v=3.19": "/lexKarpov/welbex-work/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/lexKarpov/welbex-work/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/lexKarpov/welbex-work/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/lexKarpov/welbex-work/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/lexKarpov/welbex-work/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/lexKarpov/welbex-work/static/media/logo.3c343290f6e5212dfe6da40995b0cc51.svg",
+    "static/media/whatsapp.svg": "/lexKarpov/welbex-work/static/media/whatsapp.b68965d8875719d7ac56dd2784aae9ee.svg",
+    "static/media/viber.svg": "/lexKarpov/welbex-work/static/media/viber.af065114865219181864377f8623c26f.svg",
+    "index.html": "/lexKarpov/welbex-work/index.html",
+    "static/media/telegram.svg": "/lexKarpov/welbex-work/static/media/telegram.e06f7254a04fa3f3d6df3f59a01e133a.svg",
+    "main.3256fa3e.css.map": "/lexKarpov/welbex-work/static/css/main.3256fa3e.css.map",
+    "main.ed225cbe.js.map": "/lexKarpov/welbex-work/static/js/main.ed225cbe.js.map",
+    "787.08f9b020.chunk.js.map": "/lexKarpov/welbex-work/static/js/787.08f9b020.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b627442c.css",
-    "static/js/main.42a42436.js"
+    "static/css/main.3256fa3e.css",
+    "static/js/main.ed225cbe.js"
   ]
 }
