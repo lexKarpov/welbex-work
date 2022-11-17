@@ -1,0 +1,19 @@
+.development {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.development__title {
+  font-size: 56px;
+}
+
+.development__button {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

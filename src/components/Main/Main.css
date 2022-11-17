@@ -1,0 +1,154 @@
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+
+.slogan__title{
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #E4E5EA;
+  margin: 0;
+  max-width: 352px;
+}
+
+.slogan__gradient{
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 58px;
+  background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.slogan__desc{
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: #E4E5EA;
+  max-width: 275px;
+  margin-top: 30px;
+}
+
+.actions__title{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: right;
+  color: #E4E5EA;
+  margin-bottom: 0;
+}
+
+.actions__gradient{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: right;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.actions{
+  max-width: 301px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end
+}
+
+
+.back-call{
+  width: 262px;
+  height: 61px;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #E4E5EA;
+  background-color: #4077F3;
+  margin-bottom: 69px;
+  transition: all ease .3s;
+  border: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back-call:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #4077F3;
+}
+
+@media all and (max-width: 768px){
+  .main{
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 59px 0;
+  }
+  .slogan{
+    margin: 0 auto;
+    width: max-content;
+  }
+  .actions{
+    max-width: 450px;
+    align-items: center;
+  }
+  .slogan__title{
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #E4E5EA;
+    max-width: 272px;
+  }
+  .slogan__gradient{
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .slogan__desc{
+    margin-top: 15px;
+  }
+  .actions__title{
+    text-align: left;
+  }
+  .actions__gradient{
+    text-transform: none;
+  }
+  .back-call{
+    display: none;
+  }
+}
+
+@media all and (max-width: 500px){
+  .actions{
+    max-width: 100%;
+    padding-top: 10px;
+  }
+  .actions__gradient{
+    letter-spacing: 0;
+  }
+  .main{
+    background: radial-gradient(238.53% 189.02% at 3.2% 3.49%, rgba(255, 246, 233, 0.1) 0%, rgba(26, 29, 35, 0.1) 26.62%, rgba(26, 29, 35, 0.1) 52.1%, rgba(26, 29, 35, 0.01) 70.17%, rgba(26, 29, 35, 0) 100%);
+    backdrop-filter: blur(7px);
+    padding: 101px 15px 60px 15px;
+
+  }
+}
+
+@media all and (max-width: 350px){
+  .slogan{
+    width: 100%;
+  }
+}
