@@ -3,15 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
-import {BrowserRouter} from "react-router-dom";
-import Privilege from "./components/Privilege/Privilege";
+import {HashRouter} from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
 import PageInDevelopment from "./components/PageInDevelopment/PageInDevelopment";
 const root = ReactDOM.createRoot (document.getElementById ('root'));
 
 root.render (
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route
           path="/"
@@ -25,7 +24,7 @@ root.render (
           }/>
 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 

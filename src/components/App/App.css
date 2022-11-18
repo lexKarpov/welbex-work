@@ -32,9 +32,6 @@
   background: #961A1A;
   opacity: 0.5;
   filter: blur(196px);
-  animation-duration: 5s;
-  animation-name: shadowOffset;
-  animation-iteration-count: infinite;
 }
 
 .container__header-bubble{
@@ -95,44 +92,6 @@
   min-height: 100vh;
   z-index: 12;
 }
-
-
-
-.container__medium-bubble,
-.container__small-bubble{
-  animation-duration: 13s;
-  animation-name: lightShine;
-  animation-iteration-count: infinite;
-}
-
-@keyframes lightShine {
-  0% {
-    opacity: 0.4;
-  }
-  50%{
-    opacity: 0.6;
-  }
-  100% {
-    opacity: 0.3;
-  }
-}
-@keyframes shadowOffset {
-  0% {
-    /*filter: blur(16px);*/
-    opacity: 0.5;
-  }
-  40%{
-    /*filter: blur(196px);*/
-    opacity: 0.3;
-  }
-  80%{
-    opacity: 0.2;
-  }
-  100% {
-    opacity: 0.4;
-  }
-}
-
 
 @media all and (max-width: 1178px){
   .body {
