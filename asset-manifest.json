@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/welbex-work/static/css/main.4a0540cb.css",
-    "main.js": "/welbex-work/static/js/main.082b0897.js",
-    "static/js/787.08f9b020.chunk.js": "/welbex-work/static/js/787.08f9b020.chunk.js",
-    "static/media/Montserrat-Medium.ttf": "/welbex-work/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/Inter-Black.woff?v=3.19": "/welbex-work/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/welbex-work/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/welbex-work/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
-    "static/media/Inter-Black.woff2?v=3.19": "/welbex-work/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2?v=3.19": "/welbex-work/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/logo.svg": "/welbex-work/static/media/logo.3c343290f6e5212dfe6da40995b0cc51.svg",
-    "static/media/whatsapp.svg": "/welbex-work/static/media/whatsapp.b68965d8875719d7ac56dd2784aae9ee.svg",
-    "static/media/viber.svg": "/welbex-work/static/media/viber.af065114865219181864377f8623c26f.svg",
-    "index.html": "/welbex-work/index.html",
-    "static/media/telegram.svg": "/welbex-work/static/media/telegram.e06f7254a04fa3f3d6df3f59a01e133a.svg",
-    "main.4a0540cb.css.map": "/welbex-work/static/css/main.4a0540cb.css.map",
-    "main.082b0897.js.map": "/welbex-work/static/js/main.082b0897.js.map",
-    "787.08f9b020.chunk.js.map": "/welbex-work/static/js/787.08f9b020.chunk.js.map"
+    "main.css": "/static/css/main.fc7139c6.css",
+    "main.js": "/static/js/main.fe85f613.js",
+    "static/js/787.08f9b020.chunk.js": "/static/js/787.08f9b020.chunk.js",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Inter-Black.woff?v=3.19": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/static/media/logo.3c343290f6e5212dfe6da40995b0cc51.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.b68965d8875719d7ac56dd2784aae9ee.svg",
+    "static/media/viber.svg": "/static/media/viber.af065114865219181864377f8623c26f.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.e06f7254a04fa3f3d6df3f59a01e133a.svg",
+    "main.fc7139c6.css.map": "/static/css/main.fc7139c6.css.map",
+    "main.fe85f613.js.map": "/static/js/main.fe85f613.js.map",
+    "787.08f9b020.chunk.js.map": "/static/js/787.08f9b020.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a0540cb.css",
-    "static/js/main.082b0897.js"
+    "static/css/main.fc7139c6.css",
+    "static/js/main.fe85f613.js"
   ]
 }
