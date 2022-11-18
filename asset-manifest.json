@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/welbex-work/static/css/main.4a0540cb.css",
+    "main.css": "/welbex-work/static/css/main.1a5db325.css",
     "main.js": "/welbex-work/static/js/main.082b0897.js",
     "static/js/787.08f9b020.chunk.js": "/welbex-work/static/js/787.08f9b020.chunk.js",
     "static/media/Montserrat-Medium.ttf": "/welbex-work/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
@@ -14,12 +14,12 @@
     "static/media/viber.svg": "/welbex-work/static/media/viber.af065114865219181864377f8623c26f.svg",
     "index.html": "/welbex-work/index.html",
     "static/media/telegram.svg": "/welbex-work/static/media/telegram.e06f7254a04fa3f3d6df3f59a01e133a.svg",
-    "main.4a0540cb.css.map": "/welbex-work/static/css/main.4a0540cb.css.map",
+    "main.1a5db325.css.map": "/welbex-work/static/css/main.1a5db325.css.map",
     "main.082b0897.js.map": "/welbex-work/static/js/main.082b0897.js.map",
     "787.08f9b020.chunk.js.map": "/welbex-work/static/js/787.08f9b020.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a0540cb.css",
+    "static/css/main.1a5db325.css",
     "static/js/main.082b0897.js"
   ]
 }
